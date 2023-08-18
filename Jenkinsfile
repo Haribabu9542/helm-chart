@@ -4,7 +4,7 @@ pipeline{
     stages{
         stage("this is helloworld"){
             steps{
-                echo "helloworld -2"
+                echo "helloworld 1"
             }
             
         }
